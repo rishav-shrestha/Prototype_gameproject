@@ -440,6 +440,7 @@
 -analyzer:"C:/Users/Victus/Downloads/6000.1.2f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/FarmManager.cs"
 "Assets/Scripts/FarmTile.cs"
+"Assets/Scripts/InputManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
